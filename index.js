@@ -214,4 +214,4 @@ mongoose.connect(process.env.MONGODB, {
 .then(db => console.log('Conectado a MongoDB'))
 .catch(err => console.error(err))
 
-client.login(ODcyOTYwODM0NjA1ODQyNDUy.YQxeIQ.QvGJfEkDNra1gJKtJupfNZJH2oQ)
+client.login()
